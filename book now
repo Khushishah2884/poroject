@@ -1,0 +1,52 @@
+<html>
+    
+<body><center>
+	<h1><center>Book now</center></h1>	
+	<table>
+	<tr>
+	<td>
+	FIRST NAME:</td>
+	<td>
+	<input type="text" max size="30" placeholder="enter first name"></td>
+	</tr><br>
+	
+	<tr> <td>LAST NAME:</td>
+	<td><input type="text" max size="30" placeholder="enter first name"></td>
+	</tr><br>
+	<tr>
+	<td>DATE OF Event:</td>
+	<td><input type="date"></td>
+	<tr><br>
+	
+	<tr>
+	<td>EMAIL ID:</td>
+	<td><input type="text"></td>
+	</tr><br>
+	<tr>
+	<td>MOBILE NO:</td>
+	<td><input type="text" maxlength="10" placeholder="enter mobile no."></td>
+	</tr><br>
+	<tr>
+	<td>GENDER:</td>
+	<td><input type="radio" name="gender" check="checked">male
+	<input type="radio" name="gender" check="checked">female
+	</td></tr><br>
+	
+	<tr><td>Your Wishes :</td><br>
+	<td><textarea row="3" col="5"></textarea></td><br>
+	</tr>
+	<tr>
+	<td>
+	PINCODE:</td>
+	<td><input type="text" maxlength="6" placeholder="enter pin code">
+	</td></tr><br>
+	<tr><td></td>
+	<td><input type="submit"> 	
+	<input type="reset"></td>
+	</td></tr>
+	</table></center>
+	
+	</body>    
+
+
+</html>
